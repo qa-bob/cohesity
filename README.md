@@ -16,3 +16,5 @@ Strong test planning ability is a huge plus.
 Validated experience in some of the following areas: Data Protection, Filesystem, Cloud, SaaS, and Platform
 
 This project should demonstrate PyTest testing Cohesity's application.
+
+https://www.cohesity.com/careers/open-positions/?gh_jid=c3ebc4b88626100121904ca4508d0000&type=wd
